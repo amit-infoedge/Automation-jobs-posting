@@ -1,0 +1,25 @@
+# Job Posting Automation Framework - Dependencies
+
+# Data Processing
+pandas>=1.3.0
+numpy>=1.21.0
+openpyxl>=3.6.0
+
+# Database
+pyodbc>=4.0.0
+
+# HTTP/API
+requests>=2.26.0
+urllib3>=1.26.0
+
+# JSON/Data Serialization
+python-dateutil>=2.8.2
+
+# Logging (optional, Python standard library has logging built-in)
+# No additional packages needed
+
+# Development (optional)
+pytest>=6.2.0
+pytest-cov>=2.12.0
+black>=21.6b0
+flake8>=3.9.2
